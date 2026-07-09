@@ -60,7 +60,7 @@ Estudiante de Desarrollo de Software en el **Instituto Tecnológico de las Amér
     </td>
     <td width="50%">
       <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Beelzegor&layout=donut&langs_count=4&disable_animations=true&theme=midnight-purple">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Beelzegor&layout=donut&langs_count=4&disable_animations=true&theme=midnight-purple" width="480" height="220" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Beelzegor&langs_count=3&theme=midnight-purple" width="480" height="220" alt="Top Languages" />
       </a>
     </td>
   </tr>
